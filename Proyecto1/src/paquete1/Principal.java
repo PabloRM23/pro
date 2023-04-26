@@ -7,6 +7,7 @@ public class Principal {
 
 		System.out.println("Estamos haciendo control de versiones con Git");
 		System.out.println("Nuevo Mensaje.");
+		System.out.println("De nuevo otro mensaje nuevo.");
 	}
 
 }
